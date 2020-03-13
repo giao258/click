@@ -1,0 +1,13 @@
+E:\desktop\ClickMaster\ClickMaster\bin\Debug\ClickMaster.exe.config
+E:\desktop\ClickMaster\ClickMaster\bin\Debug\ClickMaster.exe
+E:\desktop\ClickMaster\ClickMaster\bin\Debug\ClickMaster.pdb
+E:\desktop\ClickMaster\ClickMaster\bin\Debug\ClickMaster.xml
+E:\desktop\ClickMaster\ClickMaster\obj\Debug\ClickMaster.vbprojAssemblyReference.cache
+E:\desktop\ClickMaster\ClickMaster\obj\Debug\WindowsApp1.Form1.resources
+E:\desktop\ClickMaster\ClickMaster\obj\Debug\WindowsApp1.Form2.resources
+E:\desktop\ClickMaster\ClickMaster\obj\Debug\WindowsApp1.Resources.resources
+E:\desktop\ClickMaster\ClickMaster\obj\Debug\ClickMaster.vbproj.GenerateResource.cache
+E:\desktop\ClickMaster\ClickMaster\obj\Debug\ClickMaster.vbproj.CoreCompileInputs.cache
+E:\desktop\ClickMaster\ClickMaster\obj\Debug\ClickMaster.exe
+E:\desktop\ClickMaster\ClickMaster\obj\Debug\ClickMaster.xml
+E:\desktop\ClickMaster\ClickMaster\obj\Debug\ClickMaster.pdb
