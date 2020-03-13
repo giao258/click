@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2020-03-10T18:05:51.9270301+08:00" FiddlerVersion="5.0.20194.41348">
+  <State Enabled="true" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="https://h5.m.taobao.com/tblive/dingtalk/pc-live-v3.html" Action="E:/desktop/a.html" Enabled="true" />
+  </State>
+</AutoResponder>
