@@ -1,3 +1,2 @@
-# click
-cilckmaster
+# ClickMaster
 DingTalk makes me crazy...
